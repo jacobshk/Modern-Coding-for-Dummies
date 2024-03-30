@@ -6,7 +6,7 @@ This is intended for someone with a basic understanding of "coding" (i.e. an und
 
 ## Tech stack: 
 * Front end: React (i.e JS, HTML, CSS) 
-* Back end: Django (i.e. Python) 
+* Back end: Django (i.e. Python) AND Node JS (i.e. Javascript)
 * Data layer: MongoDB (i.e. SQL) AND Firebase (i.e. NoSQL) 
 * Deployment: AWS (i.e. deploying on a server) 
 
@@ -36,4 +36,11 @@ A conceptual breakdown of important topics that aren't code. It's organized in t
 
 ---------------------------------------
 # 2.0 Project Overview: 
-A high-level look at the project we're building
+A high-level look at the project we're building. 
+
+
+
+# 2.1 Project tools:
+Figma 
+Entity Relationship Diagram
+User stories / etc. 
