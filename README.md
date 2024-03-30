@@ -5,10 +5,10 @@ A chapter-by-chapter guide on creating a full stack app, to teach you both full 
 This is intended for someone with a basic understanding of "coding" (i.e. an understanding of loops, datatypes, etc.), and a basic understanding of computers (i.e. memory, the internet etc.). Essentially, the reader is a student in college who's taken CS courses but not done any real world projects. This guide aims to take the reader from a classroom understanding of "programming", and provide the skill set of a junior developer at a big tech company.
 
 ## Tech stack: 
-Front end: React (i.e JS, HTML, CSS) 
-Back end: Django (i.e. Python) 
-Data layer: MongoDB (i.e. SQL) AND Firebase (i.e. NoSQL) 
-Deployment: AWS (i.e. deploying on a server) 
+* Front end: React (i.e JS, HTML, CSS) 
+* Back end: Django (i.e. Python) 
+* Data layer: MongoDB (i.e. SQL) AND Firebase (i.e. NoSQL) 
+* Deployment: AWS (i.e. deploying on a server) 
 
 # 0.2 Sequence Of Events
 This repository will cover the following chapters in the following order:
