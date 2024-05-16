@@ -11,10 +11,28 @@ This is intended for someone with a basic understanding of "coding" (i.e. an und
 * Deployment: AWS (i.e. deploying on a server) 
 
 # 0.2 Sequence Of Events
-This repository will cover the following chapters in the following order:
-0. 
-1. 
-2. 
+Planning:
+1. Create Entity Relationship Diagrams (ERDs) for database organization
+2. Create a prototype User Interface (UI) with Figma 
+
+Setup:
+1. Setup VS code
+2. Install any necessary compilers (e.g. Python 3.10 runtime, JS extensions for VSCode, etc.). Ensure the PATH variable points properly to the installations.
+3. Install NPM (node package manager) -- to do this, install Node JS first. NPM comes with node js. You should be able to open a cmd prompt and type "npm" on successfull install.
+4. Using NPM, install react (via create-react-app). 
+5. Setup a MongoDB account + collection
+6. Setup a Firebase account + collection
+7. Setup an AWS account (goal: Cheap EC2 instance for deploying a website)
+
+Coding:
+1. Create a frontend with React. The frontend is comprised of surface level user interface:
+- A "landing page" (i.e. the page that is displayed when the base URL, website.com, is typed in)
+- A "router" -- i.e. software (typically a single JS file) that correlates URL paths input in the browser to HTML pages/elements displayed
+- HTML elements/pages - HTML pages that contain the actual content displayed in the browser. Note that React handles these a bit funky via JSX
+- Interactive JS components - HTML elements (e.g. Buttons) will "link" to JS to actually *do* things (e.g. an HTML button will have an "onclick" property, which will call a certain JS function when the button is clicked by the user)
+
+2. Create a backend with Django/NodeJS. The backend is comprised of the actual function of the website:
+- 
 
 
 # 1.0 Conceptual Overview
